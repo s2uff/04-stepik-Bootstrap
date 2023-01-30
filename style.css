@@ -1,0 +1,29 @@
+.allcont {
+    max-width: 1219px;
+    margin: 0 auto;
+}
+.port {
+    padding: 3%;
+    max-width: 1219px;
+    background-color: #E9ECEF;
+}
+
+.container2 {
+    padding: 0 3% 3% 3%;
+}
+.col-sm-6 {
+    margin-top: 3%;
+}
+
+.container3 {
+    padding: 0 3% 3% 3%;
+    min-width: 693px;
+    overflow: auto;
+}
+
+.footer {
+    max-width: 1219px;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    padding: 1% 0 1% 3%;
+}
